@@ -1,0 +1,2 @@
+# 前端单页文件视为文档，不计入 GitHub 语言统计，使主语言正确显示为 Python
+static/*.html linguist-documentation
